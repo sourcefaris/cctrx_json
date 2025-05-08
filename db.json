@@ -1,27 +1,6 @@
 {
 "transactions" :[
 		  {
-			"Transaction_ID": "CTID28830551",
-			"Transaction_Date": "24-Apr-16",
-			"Credit_Card_ID": "1629-9566-3285-2123",
-			"Transaction_Value": 23649,
-			"Transaction_Segment": "SEG25"
-		  },
-		  {
-			"Transaction_ID": "CTID45504917",
-			"Transaction_Date": "11-Feb-16",
-			"Credit_Card_ID": "3697-6001-4909-5350",
-			"Transaction_Value": 26726,
-			"Transaction_Segment": "SEG16"
-		  },
-		  {
-			"Transaction_ID": "CTID47312290",
-			"Transaction_Date": "1-Nov-16",
-			"Credit_Card_ID": "5864-4475-3659-1440",
-			"Transaction_Value": 22012,
-			"Transaction_Segment": "SEG14"
-		  },
-		  {
 			"Transaction_ID": "CTID25637718",
 			"Transaction_Date": "28-Jan-16",
 			"Credit_Card_ID": "5991-4421-8476-3804",
