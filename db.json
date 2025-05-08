@@ -202,6 +202,13 @@
 			"Credit_Card_ID": "6620-4005-4574-6263",
 			"Transaction_Value": 41496,
 			"Transaction_Segment": "SEG20"
+		  },
+		  {
+			"Transaction_ID": "CTID59592896",
+			"Transaction_Date": "21-Feb-16",
+			"Credit_Card_ID": "5618-9718-9367-2102",
+			"Transaction_Value": 26716,
+			"Transaction_Segment": "SEG16"
 		  }
 		]
 }
